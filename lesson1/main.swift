@@ -107,4 +107,4 @@ func getsort3(y1:Int,y2:Int,y3:Int)->(Int,Int,Int){
 }
 var(xx1,xx2,xx3) = getsort3(y1: 3,y2:10, y3:5)
 print("\(xx1),\(xx2),\(xx3)")
-
+//add some thing here
